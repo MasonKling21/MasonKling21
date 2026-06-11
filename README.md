@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mason Kling</h1>
+<h1 align="center">Mason Kling</h1>
 
 <h3 align="center">
 Software Engineer interested in backend systems, data pipelines, and AI-powered applications
@@ -25,17 +25,6 @@ Most recently I've been focused on building AI-powered applications that combine
 Before Flatiron, I worked at Cognizant supporting Java-based enterprise applications, troubleshooting production issues, maintaining SQL-backed systems, and contributing bug fixes to production code.
 
 Outside of work, I enjoy building projects that solve real problems and exploring new technologies through hands-on development.
-
----
-
-## What I'm Working On
-
-- 🚀 Building MatchPoint, an AI-powered job search platform
-- 📄 Resume parsing and job matching workflows
-- 🔎 Semantic search and vector-based retrieval systems
-- 🗄️ SQLite, PostgreSQL, and database design
-- ⚡ FastAPI and TypeScript backend development
-- 🤖 Practical applications of LLMs and AI agents
 
 ---
 
